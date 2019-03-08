@@ -6,6 +6,7 @@ gem 'sinatra'
 gem 'activerecord'
 gem 'pg'
 gem 'rack'
+gem 'json'
 
 group :test do
   gem 'rubocop', '0.63.1'
